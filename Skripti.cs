@@ -20,7 +20,7 @@ namespace ConsoleApp1
 
             else if (x > 4 && x<7 || x==4)
             {
-                Console.WriteLine("Olet perse");
+                Console.WriteLine("Olet huono");
             }
 
             else
