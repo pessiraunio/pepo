@@ -1,3 +1,3 @@
 # pepo
 
-Tää on vaaa tälläne pikkuprojekti et voi testaa mite tää kithupi ees toimiii 
+Tää on vaaa tälläne pikkuprojekti et voin testaa githubin toimintaa
